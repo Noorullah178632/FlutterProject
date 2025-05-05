@@ -1,0 +1,1 @@
+ E:\\projects\\ecommerce_app\\.dart_tool\\flutter_build\\ed98a1a9373294bcb4cde4573eb3fd95\\native_assets.json: 
